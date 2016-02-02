@@ -1,0 +1,13 @@
+Alternative, Bar, Friday, Hungry, Patrons, Price, Rain, Reservation, Type, Estimate, Decision
+Yes, No, No, Yes, Some, $$$, No, Yes, French, 0–10, 1
+Yes, No, No, Yes, Full, $, No, No, Thai, 30–60, 0
+No, Yes, No, No, Some, $, No, No, Burger, 0–10, 1
+Yes, No, Yes, Yes, Full, $, No, No, Thai, 10–30, 1
+Yes, No, Yes, No, Full, $$$, No, Yes, French, >60, 0
+No, Yes, No, Yes, Some, $$, Yes, Yes, Italian, 0–10, 1
+No, Yes, No, No, None, $, Yes, No, Burger, 0–10, 0
+No, No, No, Yes, Some, $$, Yes, Yes, Thai, 0–10, 1
+No, Yes, Yes, No, Full, $, Yes, No, Burger, >60, 0
+Yes, Yes, Yes, Yes, Full, $$$, No, Yes, Italian, 10–30, 0
+No, No, No, No, None, $, No, No, Thai, 0–10, 0
+Yes, Yes, Yes, Yes, Full, $, No, No, Burger, 30–60, 1
